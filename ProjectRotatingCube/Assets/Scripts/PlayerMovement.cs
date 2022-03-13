@@ -11,6 +11,8 @@ public class PlayerMovement : MonoBehaviour
     public GameObject crashEffect;
     //public bool isMoving;
     public float moveSpeed = 10f;
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
@@ -21,6 +23,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+
         /*
         if (Input.GetMouseButtonDown(0))
         {

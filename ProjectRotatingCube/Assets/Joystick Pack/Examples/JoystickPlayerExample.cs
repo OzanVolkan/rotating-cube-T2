@@ -16,5 +16,4 @@ public class JoystickPlayerExample : MonoBehaviour
         //rb.AddForce(direction * speed * Time.deltaTime, ForceMode.Impulse);
         //rb.AddTorque(direction * speed, ForceMode.Impulse);
     }
-
 }
