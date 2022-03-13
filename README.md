@@ -1,6 +1,5 @@
 # rotating-cube
 Rotating Cube is an amusing game that you'll be challenging against time!
-Control Player with the joystick.
 There are 3 collectable items in the scene;
 Red= 1 Point. Blue=2 Point. Green=3 Point.
 Let's see how many points you'll reach in 60 seconds!
